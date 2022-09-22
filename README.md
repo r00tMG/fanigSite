@@ -1,2 +1,2 @@
 # fanigSite
-Une site web d'une entreprise en génie civil 
+Un site web d'une entreprise en génie civil 
